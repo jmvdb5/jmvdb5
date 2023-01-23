@@ -1,4 +1,4 @@
-- 👋 Hi, I’m j
+- 👋 Hi, I’m jaredvdb
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data
 - 💞️ I’m looking forward to collaborate
